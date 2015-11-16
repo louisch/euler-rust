@@ -1,0 +1,16 @@
+[package]
+
+name = "euler-rust"
+version = "0.0.1"
+authors = [
+    "Louis Chan <louis058@gmail.com>",
+]
+
+license = "BSD 2-clause"
+description = "Solutions to Project Euler"
+homepage = "https://github.com/louisch/euler-rust"
+repository = "https://github.com/louisch/euler-rust"
+
+[dependencies]
+num = "*"
+unicode-segmentation = "0.1.2"
